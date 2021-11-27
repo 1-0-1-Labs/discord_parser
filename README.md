@@ -7,6 +7,7 @@ A python script for scraping solana wallet addresses in a discord server.
 - re
 - json
 - os
+- dotenv
 
 
 ## How It Works?
