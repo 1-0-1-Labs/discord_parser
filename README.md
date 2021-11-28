@@ -20,6 +20,7 @@ A Discord bot client is initialized. This client works with the specified discor
 ```
 git clone https://github.com/1-0-1-Labs/discord_parser
 cd discord_parser
+pip3 install -r requirements.txt
 ```
 
 ## Usage
