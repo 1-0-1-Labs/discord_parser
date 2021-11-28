@@ -19,11 +19,11 @@ A Discord bot client is initialized. This client works with the specified discor
 ## Installation
 ```
 git clone https://github.com/1-0-1-Labs/discord_parser
-cd discord/parser
+cd discord_parser
 ```
 
 ## Usage
-```python3 scrape_dc.py```
+```python3 dc-scraper.py```
 ```
 user@pc:~$ python3 scrape_dc.py 
 [INFO] Logged in as my_lovely_bot#3886
